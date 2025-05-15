@@ -44,6 +44,6 @@ Finalmente, se imprimen los que no fueron tachados, que son los primos.
 
 DIAGRAMA DE FLUJO 
 
-![Inicio](https://github.com/user-attachments/assets/61f074fa-e776-409e-abf9-0bfe8ef09f2a)
 
+![Inicio](https://github.com/user-attachments/assets/36be81e4-4d9e-47dd-b934-9bc54b03436a)
 
