@@ -1,5 +1,5 @@
 # Reto-3
-Pseudocódigo y diagrama de flujos de numeros primos
+Pseudocódigo y diagrama de flujo de los numeros primos.
 
 PSEUDOCODIGO
 
