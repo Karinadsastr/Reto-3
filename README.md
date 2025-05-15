@@ -32,12 +32,18 @@ Fin
 Explicacion:
 
 Empieza desde 2, que es el primer número primo válido.
+
 Crea una lista desde 2 hasta n, que es lo correcto.
+
 Usa un bucle que va hasta √n, que es suficiente para tachar todos los compuestos.
+
 Dentro del bucle, solo se tachan múltiplos de los números no tachados, es decir, los que son primos.
+
 Finalmente, se imprimen los que no fueron tachados, que son los primos.
 
+
 DIAGRAMA DE FLUJO 
+
 ![Inicio](https://github.com/user-attachments/assets/61f074fa-e776-409e-abf9-0bfe8ef09f2a)
 
 
