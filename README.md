@@ -6,11 +6,13 @@ PSEUDOCODIGO
 [variables]
 
 n : entero     // número hasta el cual se buscan primos
+
 i : entero     // comienza desde 2
 
 Inicio
 
     i = 2 
+    
     Leer n
 
     Crear una lista "numeros" desde i hasta n
