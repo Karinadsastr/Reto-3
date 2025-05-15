@@ -42,6 +42,7 @@ Dentro del bucle, solo se tachan múltiplos de los números no tachados, es deci
 Finalmente, se imprimen los que no fueron tachados, que son los primos.
 
 
+
 DIAGRAMA DE FLUJO 
 
 
