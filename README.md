@@ -4,6 +4,7 @@ Pseudocódigo y diagrama de flujos de numeros primos
 PSEUDOCODIGO
 
 [variables]
+
 n : entero     // número hasta el cual se buscan primos
 i : entero     // comienza desde 2
 
